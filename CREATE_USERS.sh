@@ -2,7 +2,7 @@
 
 #
 # This bash script can use to create user accounts
-# in Linux enviroments.
+# in RedHat based Linux enviroments.
 #
 
 #
